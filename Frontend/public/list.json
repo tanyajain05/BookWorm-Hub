@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Story Book",
+      "title": "An Epic Journey of Legends: Follow a tale of heroes, myths, and timeless adventures that inspire generations.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 2,
+      "name": "Adventure Book",
+      "title": "The Great Wilderness Escape: Embark on a thrilling expedition across untamed lands and hidden treasures.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 3,
+      "name": "Mystery Tales",
+      "title": "The Vanishing Shadows: A suspenseful mystery unraveling secrets buried deep in the heart of darkness.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 4,
+      "name": "Fantasy Epic",
+      "title": "Dragons and Dwarves Unite: Witness the alliance of magical creatures in a battle against looming evil.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 5,
+      "name": "Science Fiction",
+      "title": "Exploring Distant Galaxies: A gripping tale of interstellar journeys and humanity's place among the stars.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 6,
+      "name": "Biography",
+      "title": "The Genius Who Changed the World: An inspiring life story of innovation, perseverance, and legacy.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 7,
+      "name": "History Book",
+      "title": "Ancient Civilizations Revealed: Dive into the stories of the past and uncover the roots of our modern world.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 8,
+      "name": "Thriller Novel",
+      "title": "The Deadly Secret: A chilling narrative where every twist brings you closer to a shocking revelation.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 9,
+      "name": "Romance Novel",
+      "title": "Love Across Oceans: A heartwarming story of love that defies time, distance, and obstacles.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 10,
+      "name": "Self-Help",
+      "title": "Unlocking Your Potential: A guide to discovering your true self and reaching heights you never imagined.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 11,
+      "name": "Poetry Book",
+      "title": "Verses of the Heart: A collection of poetic masterpieces that touch the soul and uplift the spirit.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 12,
+      "name": "Horror Tales",
+      "title": "Whispers from the Grave: A chilling anthology of spine-tingling stories from beyond.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 13,
+      "name": "Science Book",
+      "title": "The Wonders of the Universe: Unlock the mysteries of space, time, and the natural world.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 14,
+      "name": "Art Book",
+      "title": "Masterpieces of the Canvas: Dive into the world of timeless artistic expressions and creativity.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 15,
+      "name": "Children's Book",
+      "title": "The Magical Toyland: Discover an enchanting tale that brings the world of toys to life.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 16,
+      "name": "Cooking Book",
+      "title": "Delicious Recipes for Every Day: A flavorful journey of culinary exploration and delight.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 17,
+      "name": "Travel Guide",
+      "title": "Exploring the World: A detailed guide to breathtaking destinations and cultural wonders.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 18,
+      "name": "Health Guide",
+      "title": "The Art of Living Well: A comprehensive guide to health, wellness, and mindfulness.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1731699347~exp=1731702947~hmac=2e0cdac4e03db5f0d8686b4015cbaa7ccb7c1adfa5eb7fb4f65852366726f7de&w=826"
+    },
+    {
+      "id": 19,
+      "name": "Technology Book",
+      "title": "Innovations Shaping the Future: Learn about the technologies redefining the way we live.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    },
+    {
+      "id": 20,
+      "name": "Philosophy Book",
+      "title": "The Quest for Knowledge: Reflect on life’s biggest questions through timeless philosophical texts.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/open-book-with-abstract-shapes_1368-371.jpg?t=st=1731699374~exp=1731702974~hmac=3eec24251d22c8b6928ed4cec134acec1de1886fbad727fb11c9cd90452c34c3&w=740"
+    }
+  ]
+  
